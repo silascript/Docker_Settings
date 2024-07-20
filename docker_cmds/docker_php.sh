@@ -1,4 +1,4 @@
 
-# docker php 8.1
-docker exec -it d_php81 sh -c "php $*"
+# docker php 8.3
+docker exec -it d_php83 sh -c "php $*"
 
